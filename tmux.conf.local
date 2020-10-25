@@ -310,3 +310,7 @@ unbind NPage
 unbind PPage
 bind -n PPage previous-window
 bind -n NPage next-window
+
+# Re-enable default behaviour;
+# C-l shouldn't clear history
+bind -n C-l send-keys C-l
