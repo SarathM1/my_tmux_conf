@@ -1,0 +1,5 @@
+* Dependencies
+
+ - oh-my-tmux
+ - zsh
+ - oh-my-zsh
